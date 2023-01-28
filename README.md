@@ -10,13 +10,14 @@ To write a python program to find the distance two 2 points
 ### Step 4: Substitute the values in the distance formula 
 ### Step 5: Display the out using format function.
 ### PROGRAM:
+```
 #Program to circulate N values.
  #Developed by: Subhikshaa M
  #RegisterNumber: 22001030
  import math x1,x2,y1,y2=10,4,6,2
  dist=math.sqrt((x2-x1)**2+(y2-y1)**2) 
 print("{:.2f}".format(dist))
-
+```
   
 
 
